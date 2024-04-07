@@ -1,4 +1,4 @@
-# Local PHP development environment in Docker
+# Local LAMP Stack with Docker
 - Containerized PHP LAMP stack setup
 > Tech Stack:
 > LINUX,
